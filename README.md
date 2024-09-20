@@ -2,15 +2,15 @@
 
 ## **Introduction**
 
-This document is about Linux basics which discussed about distributions, popular flavours of Linux and few basic commands has been listed and explained.
+This document is about Linux basics which discussed about distributions, popular flavours of Linux and few basic commands has been listed and explained for week 3 - Inclass-Assignment 1. 
 
 ## **Linux History**
  
-Linux was created in 1991 by Linus Torvalds, a Finnish software engineer. Who was created Ruby too. Linux is a free(open source) operating system kernel. There are over 600 Linux distributions, with popular ones including Ubuntu, Fedora, Debian, and Arch Linux, each serving different purposes and users. which will be discussed in the next session. 
+Linux was created by Linus Torvalds, a Finnish software engineer. Who was created Ruby too. Linux is a free(open source) operating system kernel. There are over 600 Linux distributions, with popular ones including Ubuntu, Fedora, Debian, and Arch Linux, each serving different purposes and users. which will be discussed in the next session. 
 
 ## **Linux Distributions**
 
-### **🤔 What Are Linux Distributions?**
+### **What Are Linux Distributions?**
 
 - Linux distributions (or **distros**) are variations of Linux, packaged with additional software tailored to different needs. They make Linux more accessible to various types of users, from casual desktop users to developers and enterprises.
 
